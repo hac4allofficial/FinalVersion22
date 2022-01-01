@@ -37,13 +37,6 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 ![](https://i.ibb.co/5Yr6rX3/270149639-628675308174047-73138045198747101-n.png)
 ![](https://i.ibb.co/WyVZPhy/270028120-980522869479865-4508873930942660406-n.png)
 
- <b>NOTE:</b> if you are windows and and you face this error in step 3:
-
- `7z is not recognized as an internal or external command`
-
-run this command on your terminal `set PATH=%PATH%;C:\Program Files\7-Zip\`
-this command is adding `7-zip` in environment
-
 ### HOW TO INSTALL ON BROWSER?
 
 <b>Note</b>: If you are using Firefox this is working only on v52.* bellow and you need disable "xpinstall.signatures.required" in config but if you are using [CyberFox Browser](https://sourceforge.net/projects/cyberfox/) you don't need to disable the "xpinstall.signatures.required" because the cyberfox allowed all extention/add-ons.
