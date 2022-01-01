@@ -1,16 +1,6 @@
 
 # More Advanced HackBar Add-Ons
 
-[![GitHub issues](https://img.shields.io/github/issues/PhHitachi/HackBar)](https://GitHub.com/PhHitachi/HackBar/issues/)
-[![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/PhHitachi/HackBar/releases/)
-[![GitHub forks](https://img.shields.io/github/forks/PhHitachi/HackBar)](https://GitHub.com/PhHitachi/HackBar/network/)
-[![GitHub contributors](https://img.shields.io/github/contributors/Naereen/StrapDown.js.svg)](https://GitHub.com/PhHitachi/HackBar/graphs/contributors/)
-[![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/PhHitachi/HackBar/tree/master/src)
-[![GitHub release](https://img.shields.io/github/release/PhHitachi/HackBar)](https://github.com/PhHitachi/HackBar/releases/)
-[![GitHub license](https://img.shields.io/github/license/PhHitachi/HackBar?style=flat-square)](https://github.com/PhHitachi/HackBar/blob/master/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/PhHitachi/HackBar)](https://github.com/PhHitachi/HackBar/stargazers/)
-
-
 ### Description
 
 HackBar is a security audit tool that will enable you to pentest websites more easily. ... You can use it to check site security by performing SQL injections, XSS holes and more. It also has a user-friendly interface that makes it easy for you to do fuzz testing, hash generation, encoding and more.
