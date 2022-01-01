@@ -1,5 +1,5 @@
 
-# HackBar For firefox add-ons
+# More Advanced HackBar Add-Ons
 
 [![GitHub issues](https://img.shields.io/github/issues/PhHitachi/HackBar)](https://GitHub.com/PhHitachi/HackBar/issues/)
 [![Github all releases](https://img.shields.io/github/downloads/Naereen/StrapDown.js/total.svg)](https://github.com/PhHitachi/HackBar/releases/)
@@ -59,9 +59,6 @@ Click settings and "install addons from file.." and goto hackbar file and instal
 - [HackBar v2.8](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v3.xpi)
 - [HackBar v2.9](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v4.xpi)
 - [HackBar v2.9](https://www.mediafire.com/file/ctvs6t08le9cjhf/Final-Version_2022.xpi/file) `latest`
-
-### Change logs
-[Read here](https://github.com/PhHitachi/HackBar/blob/master/ChangeLog.md)
 
 
 
