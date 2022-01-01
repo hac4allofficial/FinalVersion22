@@ -17,7 +17,7 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 
 ### add-ons
 
-1- Admin Finder
+`1- Admin Finder
 2- Reverse IP Lookup
 3- DNS Lookup 
 4- Reverse DNS Lookup
@@ -31,7 +31,7 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 12- Banner Grabbing
 13- Reverse Google Analytics
 14- MTR Traceroute
-15- Ping Test
+15- Ping Test`
 
 ### HOW TO CUSTOMIZE HACKBAR?
 
