@@ -33,23 +33,6 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 `14- MTR Traceroute`<br>
 `15- Ping Test`<br>
 
-### HOW TO CUSTOMIZE HACKBAR?
-
-- [Read here](https://github.com/PhHitachi/Hackbar/blob/master/customized.md)
-
-### HOW TO MODIFY HACKBAR?
-
-<b>Needed:</b>
-- [7-zip](https://www.7-zip.org/)
-
-<b>Steps</b>:
-
- 1. git clone https://github.com/PhHitachi/HackBar.git
- 2. cd HackBar/test `this open source you are available to modify the code`
- 
-    `Compressing Hackbar as addons`
- 3. `7z a hackbar.xpi *` 
-
 ![](https://i.ibb.co/rvRr6tx/269855933-5232581303447216-3203546644406668911-n.png)
 ![](https://i.ibb.co/5Yr6rX3/270149639-628675308174047-73138045198747101-n.png)
 ![](https://i.ibb.co/WyVZPhy/270028120-980522869479865-4508873930942660406-n.png)
