@@ -41,6 +41,10 @@ goto "about:addons"
 Click settings and "install addons from file.." and goto hackbar file and install 
 ![](https://github.com/PhHitachi/Hackbar/blob/master/img/install-from-files.png)
 
+## Hackbar Color Theme (JSON)
+- [Color Theme](https://www.mediafire.com/file/k56354uklw5as23/FV.json/file)
+
+
 ## Download Links 
 
 - [Latest](https://www.mediafire.com/file/ctvs6t08le9cjhf/Final-Version_2022.xpi/file)
