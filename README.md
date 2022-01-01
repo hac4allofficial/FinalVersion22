@@ -18,20 +18,20 @@ HackBar is a security audit tool that will enable you to pentest websites more e
 ### add-ons
 
 `1- Admin Finder`<br>
-`2- Reverse IP Lookup`
-`3- DNS Lookup `
-`4- Reverse DNS Lookup`
-`5- Exract Link Tool`
-`6- DNS Host Records (Subdomain)`
-`7- Shared DNS Server Finder `
-`8- Zone Transfer Test`
-`9- Whois Lookup`
-`10- Geo ip- IP Location Lookup`
-`11- TCP Port Scan `
-`12- Banner Grabbing`
-`13- Reverse Google Analytics`
-`14- MTR Traceroute`
-`15- Ping Test`
+`2- Reverse IP Lookup`<br>
+`3- DNS Lookup `<br>
+`4- Reverse DNS Lookup`<br>
+`5- Exract Link Tool`<br>
+`6- DNS Host Records (Subdomain)`<br>
+`7- Shared DNS Server Finder `<br>
+`8- Zone Transfer Test`<br>
+`9- Whois Lookup`<br>
+`10- Geo ip- IP Location Lookup`<br>
+`11- TCP Port Scan `<br>
+`12- Banner Grabbing`<br>
+`13- Reverse Google Analytics`<br>
+`14- MTR Traceroute`<br>
+`15- Ping Test`<br>
 
 ### HOW TO CUSTOMIZE HACKBAR?
 
