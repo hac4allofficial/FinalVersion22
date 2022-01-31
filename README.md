@@ -47,12 +47,12 @@ Click settings and "install addons from file.." and goto hackbar file and instal
 
 ## Download Links 
 
-- [Latest](https://www.mediafire.com/file/ctvs6t08le9cjhf/Final-Version_2022.xpi/file)
-- [HackBar v2.6](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite-Hackbar_v1.xpi)
-- [HackBar v2.7](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v2.xpi)
-- [HackBar v2.8](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v3.xpi)
-- [HackBar v2.9](https://github.com/hac4allofficial/Elite-Hackbar/releases/download/HackBar/Elite.Hackbar-Pro-v4.xpi)
-- [Final-Version 22](https://www.mediafire.com/file/ctvs6t08le9cjhf/Final-Version_2022.xpi/file) `latest`
+- [Latest](https://github.com/hac4allofficial/FinalVersion22/blob/main/HackBar/Final-Version%202022.xpi?raw=true)
+- [Elite-Hackbar_v1](https://github.com/hac4allofficial/FinalVersion22/blob/main/HackBar/Elite-Hackbar_v0.1.xpi?raw=true)
+- [Elite.Hackbar-Pro-v2](https://github.com/hac4allofficial/FinalVersion22/blob/main/HackBar/Elite%20Hackbar-Pro-v2.xpi?raw=true)
+- [Elite.Hackbar-Pro-v3](https://github.com/hac4allofficial/FinalVersion22/blob/main/HackBar/Elite%20Hackbar-Pro-v3.xpi?raw=true)
+- [Elite.Hackbar-Pro-v4](https://github.com/hac4allofficial/FinalVersion22/blob/main/HackBar/Elite%20Hackbar-Pro-v4.xpi?raw=true)
+- [Final-Version 2022](https://github.com/hac4allofficial/FinalVersion22/blob/main/HackBar/Final-Version%202022.xpi?raw=true) `latest`
 
 
 
