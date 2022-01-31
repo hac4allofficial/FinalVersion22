@@ -42,7 +42,7 @@ Click settings and "install addons from file.." and goto hackbar file and instal
 ![](https://github.com/PhHitachi/Hackbar/blob/master/img/install-from-files.png)
 
 ## Hackbar Color Theme (JSON)
-- [Dark Theme](https://raw.githubusercontent.com/hac4allofficial/FinalVersion22/main/Themes/Linux.json)
+- [Dark Theme](https://github.com/hac4allofficial/FinalVersion22/blob/main/Themes/Linux.json)
 
 
 ## Download Links 
